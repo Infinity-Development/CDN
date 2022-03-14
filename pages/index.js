@@ -63,7 +63,7 @@ const Index = () => {
 
             </Head>
             <div className="sub-container">
-                <img src="/images/png/Infinity.png" style={{ width: '125px', height: '125px'}}/>
+                <img src="https://cdn.discordapp.com/attachments/866141409600602163/952430876669640734/IBL_Blurplish_Logo.png" style={{ width: '125px', height: '125px'}}/>
                 <h1>Infinity CDN</h1>
                 <hr />
                 <h3>
