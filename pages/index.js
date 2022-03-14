@@ -63,7 +63,7 @@ const Index = () => {
 
             </Head>
             <div className="sub-container">
-                <img src="/images/png/infinity.png" style={{ width: '125px', height: '125px'}}/>
+                <img src="/logos/Infinity.png" style={{ width: '125px', height: '125px'}}/>
                 <h1>Infinity CDN</h1>
                 <hr />
                 <h3>
