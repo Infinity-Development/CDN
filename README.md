@@ -19,3 +19,4 @@ Custom Content Delivery Network for Infinity Bots and Infinity Development
 ## NOTE: 
 - For production use `npm start`
 - Changes in development will be rendered in real time
+- Content can be uploaded under `public`

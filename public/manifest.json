@@ -1,0 +1,50 @@
+{
+	"background_color": "#1D2022",
+	"theme_color": "#AAAAAA",
+	"name": "Infinity CDN",
+	"short_name": "IBL CDN",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "images/png/Infinity5.png",
+			"sizes": "180x180",
+			"type": "image/png"
+		},
+		{
+			"src": "images/png/Infinity5.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		},
+		{
+			"src": "images/png/Infinity5.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "images/png/Infinity5.png",
+			"sizes": "120x120",
+			"type": "image/png"
+		},
+		{
+			"src": "images/png/Infinity5.png",
+			"sizes": "114x114",
+			"type": "image/png"
+		},
+		{
+			"src": "images/png/Infinity5.png",
+			"sizes": "76x76",
+			"type": "image/png"
+		},
+		{
+			"src": "images/png/Infinity5.png",
+			"sizes": "72x72",
+			"type": "image/png"
+		},
+		{
+			"src": "images/png/Infinity5.png",
+			"sizes": "57x57",
+			"type": "image/png"
+		}
+	]
+}

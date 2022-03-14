@@ -1,0 +1,26 @@
+{
+  "name": "infinity-bots-cdn",
+  "version": "1.0.0",
+  "description": "Content Delivery Network made using NextJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -p 4200",
+    "build": "next build",
+    "start": "next start -p 5578"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfinityBotList/CDN.git"
+  },
+  "author": "TheRealToxicDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InfinityBotList/CDN/issues"
+  },
+  "homepage": "https://vkyd-liart.vercel.app",
+  "dependencies": {
+    "next": "^9.5.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
