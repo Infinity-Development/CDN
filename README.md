@@ -1,1 +1,1 @@
-# CDN
+# Infinity CDN
