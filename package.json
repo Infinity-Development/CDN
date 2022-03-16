@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/InfinityBotList/CDN/issues"
   },
-  "homepage": "https://vkyd-liart.vercel.app",
+  "homepage": "https://cdn.infinitybots.xyz",
   "dependencies": {
     "next": "^12.1.0",
     "react": "^16.14.0",
