@@ -19,7 +19,7 @@
   },
   "homepage": "https://vkyd-liart.vercel.app",
   "dependencies": {
-    "next": "^9.5.5",
+    "next": "^12.1.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
   }
