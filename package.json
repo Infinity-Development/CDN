@@ -2,7 +2,6 @@
   "name": "infinity-bots-cdn",
   "version": "1.0.0",
   "description": "Content Delivery Network made using NextJS",
-  "main": "index.js",
   "scripts": {
     "dev": "next dev -p 4200",
     "build": "next build",
