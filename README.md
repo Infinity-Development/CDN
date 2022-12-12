@@ -1,23 +1,3 @@
-# Infinity CDN
-Custom Content Delivery Network for Infinity Bots and Infinity Development
+# Infinity Assets
 
----
-
-## Stack List
-- NextJS
-- ReactJS
-- NodeJS
-
---- 
-
-### Self Hosting
-1. Download this Repo
-2. Extract to a Directory of choice
-3. run `npm install`
-4. run `npm run build`
-5. run `npm run dev`
-
-## NOTE: 
-- For production use `npm start`
-- Changes in development will be rendered in real time
-- Content can be uploaded under `public`
+Assets can be uploaded to public folder, should be served using nginx
